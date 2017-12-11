@@ -1,0 +1,7 @@
+Privacy Notice
+(English)
+We will ask about PHONE_STATE permission . When you are listening music ,  if you have incoming calls at same time we have to pause mediaplayer , thats why we want to know if you have a incoming call.
+This is for good user experience.
+
+Music Time Pro 
+
